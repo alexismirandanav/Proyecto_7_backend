@@ -19,6 +19,8 @@ const whitelist = [
   'http://127.0.0.1:3000',
   'http://localhost:5173',     // Vite
   'http://127.0.0.1:5173',
+  'http://localhost:4173',     // Vite
+  'http://127.0.0.1:4173',
   'http://localhost:4200',     // Angular
   'https://proyecto-7-frontend-x-4hfm.onrender.com',   // Frontend en Render
   'https://proyecto-7-backend-izjo.onrender.com' // Backend en Render 
