@@ -21,7 +21,7 @@ const whitelist = [
   'http://127.0.0.1:5173',
   'http://localhost:4200',     // Angular
   'https://proyecto-7-frontend-x-4hfm.onrender.com/',   // Frontend en Render
-  'https://api-miapp.onrender.com' // Backend en Render 
+  'https://proyecto-7-backend-izjo.onrender.com/' // Backend en Render 
 ];
 
 
